@@ -1,6 +1,6 @@
 # MacnCheese Detector Dataset
 
-This is a dataset that I collected to train my own MacnCheese detector with [TensorFlow's Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection). Images are from Google and Pixabay. In total, there are 200 images (160 are used for training and 40 for validation).
+This is a dataset that I collected to train my own MacnCheese detector with [TensorFlow's Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection). Images are from Google and Pixabay. In total, there are 154 images (142 are used for training and 12 for validation).
 
 ## Getting Started
 
